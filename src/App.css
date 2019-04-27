@@ -27,7 +27,7 @@ svg {
 }
 
 .yellow{
-  animation: App-logo-spin infinite 1s ease-in-out;
+  animation: App-logo-spin infinite 1s linear;
   fill: yellow;
   color: yellow;
 }
